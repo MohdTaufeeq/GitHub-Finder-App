@@ -28,7 +28,7 @@ const getUser = async(username) => {
 }
 
 //for initial user
-getUser("")
+getUser("MohdTaufeeq")
 
 
 const getRepos = async(username) => {
